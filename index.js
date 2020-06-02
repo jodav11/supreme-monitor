@@ -1,4 +1,3 @@
-var Twitter = require("twitter");
 const rp = require("request-promise");
 const cheerio = require("cheerio");
 const _ = require("underscore");
